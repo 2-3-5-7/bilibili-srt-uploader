@@ -1,0 +1,11 @@
+{
+  "name": "bilibili-srt-uploader",
+  "version": "1.0.0",
+  "description": "Bilibili SRT subtitle uploader",
+  "main": "upload_srt.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "form-data": "^4.0.0"
+  }
+} 
